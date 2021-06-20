@@ -1,0 +1,2 @@
+# VoiceRecognition_using_python
+Speech recognition is an interdisciplinary subfield of computer science and computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers. It is also known as automatic speech recognition (ASR), computer speech recognition or speech to text (STT).This is a code of voice recognition program which listens you and perform the task which ever you said to it . It is achieved by using basic python programmimg
